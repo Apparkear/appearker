@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Mobile" transform="translate(-24.000000, -101.000000)" stroke="#787878">
+            <g id="Search" transform="translate(10.000000, 85.000000)">
+                <g id="search" transform="translate(15.000000, 17.000000)">
+                    <path d="M10.5629217,11.5653883 C12.0454332,10.3745829 12.9943998,8.5467129 12.9943998,6.4971999 C12.9943998,2.90889548 10.0855043,0 6.4971999,0 C2.90889548,0 0,2.90889548 0,6.4971999 C0,10.0855043 2.90889548,12.9943998 6.4971999,12.9943998 C8.03599132,12.9943998 9.44983966,12.4594549 10.5629217,11.5653883 L15.6713489,16.8740707 L10.5629217,11.5653883 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,52 @@
+[25-Aug-2017 10:51:44 UTC] PHP Fatal error:  Uncaught exception 'Mailgun\Connection\Exceptions\MissingRequiredParameters' with message 'The parameters passed to the API were invalid. Check your inputs! 'recipient-variables' parameter is not a valid JSON' in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php:254
+Stack trace:
+#0 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(110): Mailgun\Connection\RestClient->responseHandler(Object(GuzzleHttp\Psr7\Response))
+#1 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(179): Mailgun\Connection\RestClient->send('POST', 'roomarate.com/m...', Array, Array)
+#2 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(204): Mailgun\Connection\RestClient->post('roomarate.com/m...', Array, Array)
+#3 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(135): Mailgun\Mailgun->post('roomarate.com/m...', Array, Array)
+#4 /home/roomarate/mailgun/test.php(16): Mailgun\Mailgun->sendMessage('roomarate.com', Array)
+#5 {main}
+  thrown in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php on line 254
+[25-Aug-2017 10:52:11 UTC] PHP Fatal error:  Uncaught exception 'Mailgun\Connection\Exceptions\MissingRequiredParameters' with message 'The parameters passed to the API were invalid. Check your inputs! 'recipient-variables' parameter is not a valid JSON' in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php:254
+Stack trace:
+#0 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(110): Mailgun\Connection\RestClient->responseHandler(Object(GuzzleHttp\Psr7\Response))
+#1 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(179): Mailgun\Connection\RestClient->send('POST', 'roomarate.com/m...', Array, Array)
+#2 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(204): Mailgun\Connection\RestClient->post('roomarate.com/m...', Array, Array)
+#3 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(135): Mailgun\Mailgun->post('roomarate.com/m...', Array, Array)
+#4 /home/roomarate/mailgun/test.php(16): Mailgun\Mailgun->sendMessage('roomarate.com', Array)
+#5 {main}
+  thrown in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php on line 254
+[25-Aug-2017 10:52:31 UTC] PHP Fatal error:  Uncaught exception 'Mailgun\Connection\Exceptions\MissingRequiredParameters' with message 'The parameters passed to the API were invalid. Check your inputs! 'recipient-variables' parameter is not a valid JSON' in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php:254
+Stack trace:
+#0 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(110): Mailgun\Connection\RestClient->responseHandler(Object(GuzzleHttp\Psr7\Response))
+#1 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(179): Mailgun\Connection\RestClient->send('POST', 'roomarate.com/m...', Array, Array)
+#2 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(204): Mailgun\Connection\RestClient->post('roomarate.com/m...', Array, Array)
+#3 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(135): Mailgun\Mailgun->post('roomarate.com/m...', Array, Array)
+#4 /home/roomarate/mailgun/test.php(16): Mailgun\Mailgun->sendMessage('roomarate.com', Array)
+#5 {main}
+  thrown in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php on line 254
+[25-Aug-2017 10:53:24 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/roomarate/mailgun/test.php on line 18
+[25-Aug-2017 11:00:27 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/roomarate/mailgun/test.php on line 18
+[25-Aug-2017 11:00:56 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/roomarate/mailgun/test.php on line 18
+[25-Aug-2017 11:03:32 UTC] PHP Fatal error:  Uncaught exception 'Mailgun\Connection\Exceptions\MissingRequiredParameters' with message 'The parameters passed to the API were invalid. Check your inputs! 'recipient-variables' parameter is not a valid JSON' in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php:254
+Stack trace:
+#0 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(110): Mailgun\Connection\RestClient->responseHandler(Object(GuzzleHttp\Psr7\Response))
+#1 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(179): Mailgun\Connection\RestClient->send('POST', 'roomarate.com/m...', Array, Array)
+#2 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(204): Mailgun\Connection\RestClient->post('roomarate.com/m...', Array, Array)
+#3 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(135): Mailgun\Mailgun->post('roomarate.com/m...', Array, Array)
+#4 /home/roomarate/mailgun/test.php(16): Mailgun\Mailgun->sendMessage('roomarate.com', Array)
+#5 {main}
+  thrown in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php on line 254
+[25-Aug-2017 11:04:11 UTC] PHP Fatal error:  Uncaught exception 'Mailgun\Connection\Exceptions\MissingRequiredParameters' with message 'The parameters passed to the API were invalid. Check your inputs! 'recipient-variables' parameter is not a valid JSON' in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php:254
+Stack trace:
+#0 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(110): Mailgun\Connection\RestClient->responseHandler(Object(GuzzleHttp\Psr7\Response))
+#1 /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php(179): Mailgun\Connection\RestClient->send('POST', 'roomarate.com/m...', Array, Array)
+#2 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(204): Mailgun\Connection\RestClient->post('roomarate.com/m...', Array, Array)
+#3 /home/roomarate/mailgun/src/Mailgun/Mailgun.php(135): Mailgun\Mailgun->post('roomarate.com/m...', Array, Array)
+#4 /home/roomarate/mailgun/test.php(16): Mailgun\Mailgun->sendMessage('roomarate.com', Array)
+#5 {main}
+  thrown in /home/roomarate/mailgun/src/Mailgun/Connection/RestClient.php on line 254
+[25-Aug-2017 11:05:33 UTC] PHP Parse error:  syntax error, unexpected '',' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/roomarate/mailgun/test.php on line 14
+[25-Aug-2017 11:05:49 UTC] PHP Parse error:  syntax error, unexpected '',' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/roomarate/mailgun/test.php on line 14
+[25-Aug-2017 11:05:53 UTC] PHP Parse error:  syntax error, unexpected '',' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in test.php on line 14
+[25-Aug-2017 11:06:25 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/roomarate/mailgun/test.php on line 18

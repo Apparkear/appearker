@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ready-rent--sm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.73194067">
+        <g id="Artboard" transform="translate(-60.000000, 0.000000)" stroke="#000000">
+            <g id="ready-rent--sm" transform="translate(60.000000, 0.000000)">
+                <rect id="Rectangle-5" x="0.5" y="0.5" width="24" height="24"></rect>
+                <g id="Group-2" transform="translate(6.000000, 7.750000)" stroke-linecap="square">
+                    <path d="M0.386917323,5.09720876 L3.92245123,8.63274267" id="Line"></path>
+                    <path d="M4.16854718,0.878838618 L12.175002,8.88529343" id="Line-Copy" transform="translate(8.172451, 4.882743) scale(-1, 1) translate(-8.172451, -4.882743) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

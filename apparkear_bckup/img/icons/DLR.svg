@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="35px" viewBox="0 0 43 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>DLR</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-136.000000, -243.000000)">
+            <g id="DLR" transform="translate(136.500000, 243.494675)">
+                <path d="M21,34 C11.6111593,34 4,26.3888407 4,17 C4,7.61115925 11.6111593,0 21,0 C30.3888407,0 38,7.61115925 38,17 C38,26.3888407 30.3888407,34 21,34 Z M21,29.7806359 C28.0585503,29.7806359 33.7806359,24.0585503 33.7806359,17 C33.7806359,9.9414497 28.0585503,4.21936411 21,4.21936411 C13.9414497,4.21936411 8.21936411,9.9414497 8.21936411,17 C8.21936411,24.0585503 13.9414497,29.7806359 21,29.7806359 Z" id="Combined-Shape" fill="#00A4A8"></path>
+                <rect id="Rectangle" fill="#004696" x="0" y="13" width="42" height="7.82000017"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

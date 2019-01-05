@@ -1,0 +1,17 @@
+.dash-succes{ width: auto; margin: 0 auto;}
+.dash-succes h2{ font-weight: 300; padding:2rem; color:#242424; margin-bottom:0; }
+.contact-info { margin-top: 72px;}
+.contact-info-area { border: 1px solid #eaeaea; box-shadow: 0 0 15px rgba(105, 105, 105, 0.15); margin: 50px 0 90px; padding: 75px 30px;}
+
+.con-info-row { width: auto;}
+.con-info-row .con-info-label { color: #292929; font-size: 0.95rem;}
+.con-info-row .con-info-frmfield .form-control {
+    border: 1px solid #eaeaea;
+    border-radius: 3px;
+    color: #5a5a5a;
+    font-size: 0.94rem;
+    padding: 0.5rem 2.5rem 0.5rem 0.75rem;
+}
+
+
+ 
